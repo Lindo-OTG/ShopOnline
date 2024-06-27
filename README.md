@@ -2,7 +2,7 @@
 An Ecommerce Webapp.
 
 ## Blazor WebAssembly and WebApi WebApp.
-This is a simple demo Application using ASP.NET Core, SQL Server and EntityFramework Core. Rest Api to perform CRUD operations against a SQL Database.
+This is a simple Ecommerce Application using Blazor WebAssembly and WebApi, SQL Server and EntityFramework Core. Rest Api to perform CRUD operations against a SQL Database. Built using .NET 8.
 
 ## Includes
 - MVC (Model View Controller) design pattern.

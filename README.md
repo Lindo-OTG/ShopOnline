@@ -19,13 +19,13 @@ This is a simple demo Application using ASP.NET Core, SQL Server and EntityFrame
 - SQL Server
 
 ## How To Run
-Open solution in Visual Studio 2022
-Set Set multiple startup project for the WebApi and Frontend.
-Run the application.
+- Open solution in Visual Studio 2022
+- Set Set multiple startup project for the WebApi and Frontend.
+- Run the application.
 
 ## Special Thanks
-A special thanks to www.freecodecamp.org for the tutorial.
-A Special Thanks to Gavin Lon, for the great course, great intrsuctor.
+- A special thanks to www.freecodecamp.org for the tutorial.
+- A Special Thanks to Gavin Lon, for the great course, great intrsuctor.
 
 ## License
 This project is licensed under the MIT License.
